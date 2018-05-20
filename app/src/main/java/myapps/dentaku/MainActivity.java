@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.textview);
         textView.setText("こんにちは！ Android Studio");
 //        textView.setText(String.valueOf(42));
-
+//jjj
 
 
     }
